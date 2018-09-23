@@ -1,2 +1,5 @@
 # hello-world
-repository 1
+
+My name is Tyler
+Im learning code
+yay
